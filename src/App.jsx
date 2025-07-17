@@ -1,10 +1,7 @@
-import Menu from "./Menu"
 
-function App() {
-
+const App = () => {
   return (
-    <Menu />
-  )
+
 }
 
 export default App
